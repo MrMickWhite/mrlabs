@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#25391c" />
+  <meta name="description" content="mrmickwhite Esencias: línea botánica de esencias, jabones y cremas en presentaciones de 30 ml." />
+  <title>mrmickwhite Labs · Esencias</title>
+  <link rel="icon" href="assets/icons/favicon.png" type="image/png" />
+  <link rel="icon" href="assets/icons/favicon.ico" sizes="any" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700;800&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/app.css" />
+</head>
+<body data-page="esencias" data-base="./">
+  <div data-site-header></div>
+  <main>
+<section class="section">
+  <div class="container text-center reveal">
+    <span class="eyebrow">Catálogo principal</span>
+    <h1>Esencias en presentación de 30 ml</h1>
+    <p style="max-width:760px; margin-inline:auto;">
+      Explora cada esencia por familia aromática y entra a su presentación individual.
+      Cada ficha incluye descripción, beneficios, precauciones, ingredientes y acceso directo por WhatsApp.
+    </p>
+  </div>
+</section>
+
+<section class="section-tight">
+  <div class="container catalog-layout">
+    <aside class="card sidebar-card reveal">
+      <span class="eyebrow">Pestañas de catálogo</span>
+      <h3>Filtra por familia</h3>
+      <p>Usa estas pestañas para recorrer la línea de forma clara: cítricas, florales, herbales, especiadas y aceite base.</p>
+      <div class="tabs" data-family-tabs></div>
+      <div style="margin-top:20px;">
+        <a class="btn primary" href="contacto.html">Solicitar catálogo</a>
+      </div>
+    </aside>
+
+    <div class="grid">
+      <div class="product-grid" data-product-grid></div>
+    </div>
+  </div>
+</section>
+</main>
+  <div data-site-footer></div>
+  <script type="module" src="js/catalog.js"></script>
+</body>
+</html>
