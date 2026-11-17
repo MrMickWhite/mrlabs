@@ -39,7 +39,7 @@ usuario scrollea, dando el efecto cinematográfico de acercamiento. Respeta
 
 ## Datos de contacto configurados
 
-- WhatsApp: `593989336030`
+- WhatsApp: `593985210501`
 - Correo: `mrmickdesign@gmail.com`
 
 ## Cómo probar localmente
