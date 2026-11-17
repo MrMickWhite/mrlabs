@@ -58,6 +58,7 @@ export function injectChrome() {
             <p>WhatsApp: ${siteConfig.whatsapp}</p>
             <p>Presentaciones de 30 ml · Línea botánica</p>
             <p>© <span data-year></span> mrmickwhite Labs.</p>
+                <p><a href="https://www.mrmickwhite.com" target="_blank" rel="noopener" style="color:inherit;text-decoration:underline">MrMickWhite</a> · Todos los derechos reservados</p>
           </div>
           <div class="socials">
             <a href="mailto:${siteConfig.email}" aria-label="Correo">✉</a>
