@@ -1,7 +1,7 @@
 
 # mrmickwhite Labs Web
 
-Sitio estático modular para **labs.mrmickwhite.software**, pensado para GitHub Pages.
+Sitio estático modular para **labs.mrmickwhite.com**, pensado para GitHub Pages.
 
 ## Estructura
 
@@ -54,7 +54,7 @@ Luego abre `http://localhost:5500`.
 
 1. Sube esta carpeta a tu repositorio.
 2. En **Settings > Pages**, activa la publicación desde la rama principal.
-3. Mantén el archivo `CNAME` para usar `labs.mrmickwhite.software`.
+3. Mantén el archivo `CNAME` para usar `labs.mrmickwhite.com`.
 4. En Cloudflare, apunta el subdominio a GitHub Pages como ya haces normalmente.
 
 ## Crear nuevas esencias
