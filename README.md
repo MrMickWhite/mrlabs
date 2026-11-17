@@ -40,7 +40,7 @@ usuario scrollea, dando el efecto cinematográfico de acercamiento. Respeta
 ## Datos de contacto configurados
 
 - WhatsApp: `593985210501`
-- Correo: `mrmickdesign@gmail.com`
+- Correo: `info@labs.mrmickwhite.com`
 
 ## Cómo probar localmente
 

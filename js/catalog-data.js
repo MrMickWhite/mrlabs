@@ -3,7 +3,7 @@ export const siteConfig = {
   brand: 'mrmickwhite Esencias',
   domain: 'labs.mrmickwhite.com',
   whatsapp: '593985210501',
-  email: 'mrmickdesign@gmail.com',
+  email: 'info@labs.mrmickwhite.com',
   whatsappMessage: 'Hola, quiero información sobre las esencias mrmickwhite de 30 ml.'
 };
 
